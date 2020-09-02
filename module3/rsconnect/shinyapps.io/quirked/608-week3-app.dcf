@@ -1,0 +1,12 @@
+name: 608-week3-app
+title: 608-week3-app
+username:
+account: quirked
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2729481
+bundleId: 3576260
+url: https://quirked.shinyapps.io/608-week3-app/
+when: 1598889181.16132
+asMultiple: FALSE
+asStatic: FALSE

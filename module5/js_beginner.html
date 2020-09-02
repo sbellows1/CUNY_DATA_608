@@ -1,0 +1,61 @@
+<html>
+
+<head><title>Beginner Javascript Assignment</title></head>
+
+<body>
+
+<script type="text/javascript">
+
+function reverse(string){
+  var splitstr = string.split("");
+  var reversestr = splitstr.reverse();
+  var str = reversestr.join("");
+  return str;
+
+}
+
+function run(){
+  var t = document.getElementById("target");
+  t.innerHTML = reverse(document.getElementById('str').value);
+}
+
+</script>
+
+<p>
+<form>
+    <input id="str" type="text" size="4">
+    <input type="button" value="check" onClick="run();">
+</form>
+</p>
+
+<div id="target"></div>
+
+<script type="text/javascript">
+
+function maketable(num){
+  var splitstr = string.split("");
+  var reversestr = splitstr.reverse();
+  var str = reversestr.join("");
+  return str;
+
+}
+
+function calc(){
+  var t = document.getElementById("target");
+  t.innerHTML = reverse(document.getElementById('str').value);
+}
+
+</script>
+
+<p>
+<form>
+    <input id="str" type="text" size="4">
+    <input type="button" value="check" onClick="run();">
+</form>
+</p>
+
+<div id="target"></div>
+
+</body>
+
+</html>

@@ -28,13 +28,6 @@ summary(inc)
 
 ```
 
-Think a bit on what these summaries mean. Use the space below to add some more relevant non-visual exploratory information you think helps you understand this data:
-
-```{r}
-
-# Insert your code here, create more chunks as necessary
-
-```
 
 ## Question 1
 
